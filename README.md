@@ -9,7 +9,7 @@ The main program is `example.m` which loads the simulated data in `simulated_dat
 To run the program, type `example` in the command window and press enter. 
 
 ### Author
-Vincent Chin (email: <vincent.chin@unsw.edu.au>)
+Vincent Chin (email: <vincent.chin@sydney.edu.au>)
 
 ### License
 There are very few restrictions on the use of the codes - see the LICENSE.md file for details.
@@ -18,4 +18,4 @@ There are very few restrictions on the use of the codes - see the LICENSE.md fil
 The code for the functions `NUTS.m` and `dualAveraging.m` is based on the implementation by Matthew D. Hoffman (2011).
 
 ### Reference
-Chin, V., D. Gunawan, D. G. Fiebig, R. Kohn, and S. A. Sisson (2018). Efficient data augmentation for multivariate probit models with panel data: An application to general practitioner decision-making about contraceptives. arXiv preprint arXiv:1806.07274.
+Chin, V., D. Gunawan, D. G. Fiebig, R. Kohn, and S. A. Sisson (2020). Efficient data augmentation for multivariate probit models with panel data: an application to general practitioner decision-making about contraceptives. *Journal of the Royal Statistical Society: Series C (Applied Statistics) 69*(2), 277–300.
